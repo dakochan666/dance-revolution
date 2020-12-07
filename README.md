@@ -1,4 +1,3 @@
 # dance-revolution
 Let's Dance Together
-
-https://github.com/dakochan666/dance-revolution
+https://dakochan666.github.io/dance-revolution/
